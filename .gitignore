@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+!/t5_pegasus_pretrain/vocab.txt
+
+!/t5_pegasus_pretrain/pytorch_model.bin
+
+!/t5_pegasus_pretrain/config.json
